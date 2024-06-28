@@ -9,9 +9,12 @@ Our approach will involve:
 
 data preprocessing
 developing a price forecasting model
+
 determining the optimal trading strategy
+
 implementing the trading algorithm in Python
+
 finally testing and optimizing the algorithm.
-We will go through these steps one by one.
+
 
 
